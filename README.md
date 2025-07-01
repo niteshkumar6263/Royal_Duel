@@ -6,6 +6,20 @@ remote players connect to battle each other while communicating over
 a live video call. Player 1 is assigned to the first user, and Player 2 to the next. 
 The game synchronizes inputs instantly and streams peer-to-peer video to let players talk, taunt, and team up — all in one experience.
 
+## 🎉 Built for Fun & Connection
+
+Royal_Duel isn’t just a game — it’s a way to bond with **siblings, friends, and loved ones**. 
+Whether you're miles apart or across the room, this game is designed for **pure fun and laughter**, letting players:
+- 🗣️ Chat while fighting  
+- 😂 React in real time  
+- 🤜 Have friendly battles  
+- ❤️ Strengthen relationships through playful interaction  
+
+Perfect for:
+- Casual gaming sessions  
+- Online catch-ups
+
+---
 
 ## 🚀 Project Overview
 
